@@ -5,5 +5,5 @@ Launch Mybinder and run on the fly in the cloud with no login or any set up at a
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WSWCWaterDataExchange/JupyterNotebooks/master)
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WSWCWaterDataExchange/JupyterNotebooks/plotAllocations_indexedSearch.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/WSWCWaterDataExchange/JupyterNotebooks/blob/master/plotAllocations_indexedSearch.ipynb)
 
